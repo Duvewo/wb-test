@@ -1,0 +1,6 @@
+port: 8080
+endpoint: "api"
+host: "localhost"
+user: "admin"
+password: "admin"
+schema: "test"
